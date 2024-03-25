@@ -1,0 +1,149 @@
+ 
+
+    body{
+    background-image: url(https://media.istockphoto.com/id/1046544350/photo/abstract-blurred-simple-beige-and-tan-color-background-with-white-light-effect-for-design-as.jpg?s=612x612&w=0&k=20&c=SfRa-13dAwqh5fDRgh_obrLTJVAPzI1vU8kPK3skc18=);
+    background-size: cover;
+    height: 80vh;
+}
+.hover:hover{
+    color: rgb(27, 201, 27);
+}
+header{
+    border-right: 10px;
+    padding-right: 10vh;
+    .roboto-light {
+        font-family: "Roboto", sans-serif;
+        font-weight: 300;
+        font-style: normal;
+    }
+      
+      
+}
+.boxes{
+    height: 40vh;
+    width: 180vh;
+  
+    position: absolute;
+    margin-top: -150px;
+    display: flex;
+    
+}
+.box1{
+    height: 40vh;
+    width: 300px;
+   
+    margin-right: 30px;
+    margin-left: 10px;
+    color: rgb(210, 158, 95);
+    background-image: url(iphone.jpg);
+    background-size: cover;
+    
+}
+.box1:hover{
+    background-image: url(img7.jpg);
+    background-size: cover;
+    color: black;
+    transition-duration: 2s;
+    
+
+}
+.box2{
+    height: 40vh;
+    width: 300px;
+   
+    margin-right: 30px;
+    background-image: url(img5.jpg);
+    background-size: cover;
+    color: rgb(210, 158, 95);
+
+}
+.box2:hover{
+    background-image: url(img8.webp);
+    background-size: cover;
+    color: black;
+    transition-duration: 2s;
+}
+.box3{
+    height: 40vh;
+    width: 300px;
+  
+    background-image: url(img6.jpg);
+    background-size: cover;
+}
+.box3:hover{
+    background-image: url(img10.jpg);
+    background-size: cover;
+    color: black;
+    transition-duration: 2s;
+  
+}
+.box4{
+    height: 15vh;
+    width: 400px;
+    
+    margin-left: 10px;
+    background-image: url(12.jpg);
+    background-size: cover;
+}
+.mybox{
+    height: 40vh;
+    width: 200%;
+   
+    display: flex;
+    position: relative;
+    margin-top: 200px;
+}
+
+
+.boxx1{
+    height: 40vh;
+    width:640px;
+    background-image: url(imgg1.jpg);
+    background-size: cover;
+    
+}
+.boxx2{
+    height: 40vh;
+    width: 300px;
+   
+    margin-left: 30px;
+    background-image: url(imgg2.png);
+    background-size: cover;  
+}
+.boxx3{
+    height: 40vh;
+    width: 350px;
+ 
+    margin-left: 30px;
+    background-image: url(imgg3.png);
+    background-size: cover;  
+}
+.phones{
+    height: 35vh;
+    width: 1400px;
+    border: 2px solid black;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    background-color: aliceblue;
+    
+}
+.phone{
+    height: 200px;
+    width: 500px;
+   
+    display: flex;
+    justify-content: space-between;
+    margin: 010px;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(247, 241, 246);
+    
+}
+h6{
+ margin-top: px;
+ position: absolute;
+
+ 
+}
+
